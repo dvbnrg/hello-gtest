@@ -1,0 +1,3 @@
+/home/justdave/Dev/learn/hello-gtest/build/CMakeFiles/my_math_tests.dir
+/home/justdave/Dev/learn/hello-gtest/build/CMakeFiles/edit_cache.dir
+/home/justdave/Dev/learn/hello-gtest/build/CMakeFiles/rebuild_cache.dir
